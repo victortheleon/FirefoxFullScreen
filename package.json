@@ -5,7 +5,7 @@
   "description": "Turn Firefox in full screen after a set interval. \n Also hides the main toolbar. At any point of time, to show the toolbar\n press alt-shift-s.",
   "author": "victortheleon@gmail.com",
   "license": "MPL 2.0",
-  "version": "0.4",
+  "version": "0.5",
   "preferences": [
     {
       "description": "How many seconds to repeat the incident.",
